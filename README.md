@@ -1,6 +1,6 @@
 # repositoriocordova
 
-Esta es una pequeña demostración de como  MIT App inventor puede crear un aplicación que ayudar a presentar de una forma más atractiva el estreno de una pelicula, podrá obtener infomación como: la portada oficial de la pelicula, la fecha de estreno y su soundtrack.
+Esta es una pequeña demostración de como  MIT App inventor puede crear un aplicación que ayude a presentar de una forma más atractiva el estreno de una pelicula, podrá obtener infomación como: la portada oficial de la pelicula, la fecha de estreno y su soundtrack.
 
 1 File:
 
